@@ -11,5 +11,3 @@ print("task2")
 print("task 8")
 print("task 9")
 
-
-
